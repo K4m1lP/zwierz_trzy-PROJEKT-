@@ -1,0 +1,8 @@
+.root{
+    -fx-background-color: black;
+
+}
+.backgroundImg{
+    -fx-max-width: 400px;
+    -fx-max-height: 400px;
+}

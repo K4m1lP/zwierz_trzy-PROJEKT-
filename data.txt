@@ -1,0 +1,1 @@
+Liczba żyjących zwierząt: 2 Srednia energia: 3.0 Srednia dlugosc zycia: NaN Srednia liczba dzieci: 0.0 Dominujacy genotyp: [00000001112222233333445566666777] Ile trawy: 8

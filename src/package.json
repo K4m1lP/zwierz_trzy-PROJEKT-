@@ -1,0 +1,11 @@
+{
+  "mapWidth": 20,
+  "mapHeight": 20,
+  "proportion": 25,
+  "grassEnergy": 2,
+  "costOfDay": 1,
+  "animalsStartEnergy": 5,
+  "numOfSpawnedAnimals": 2,
+  "delay": 0.5,
+  "numOfDailyGrass": 2
+}
